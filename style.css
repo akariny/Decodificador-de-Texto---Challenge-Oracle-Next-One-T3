@@ -5,7 +5,6 @@ body {
 .cabecalho {
     display: flex;
     flex-direction: row;
-
     width: 100%;
     height: 48px;
     padding: 10px 0;
@@ -92,7 +91,6 @@ body {
     align-items: center;
     width: 40%;
     height: 500px;
-    /*background: pink;*/
 }
 
 .texto-resultante {
@@ -131,7 +129,6 @@ body {
     flex-direction: row;
     margin-top: 30px;
     justify-content: center;
-    /*background: green;*/
 }
 
 .rodape p {
