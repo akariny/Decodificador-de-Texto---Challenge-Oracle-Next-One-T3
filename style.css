@@ -148,6 +148,9 @@ body {
     padding: 2px 0;
 }
 
+.bagde {
+    height: 20px;
+}
 
 @media screen and (max-width: 780px){
         .content {
@@ -214,5 +217,10 @@ body {
 
     .rodape p {
         padding: 2px 0;
+    }
+    
+    .bagde {
+        width: 20px;
+        margin: 0 auto;
     }
 }
