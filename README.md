@@ -14,3 +14,13 @@ e com as chaves de criptografia:
 - A letra "u" é convertida para "ufat"
 
 Foram utilizados HTML5, CSS3 e Javascript para concluir o desafio.  #challengeonedecodificador2
+
+##
+### Aplicação: 
+Você pode acessar a página <a href="https://akariny.github.io/decodificador_de_texto/">AQUI</a> 😉
+
+<a href="https://imgur.com/cPcPB4K"><img src="https://i.imgur.com/cPcPB4K.png" title="source: imgur.com" /></a>
+
+
+
+
