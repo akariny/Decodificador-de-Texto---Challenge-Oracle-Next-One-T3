@@ -1,4 +1,4 @@
-# Decodificador-de-Texto---Challenge-Oracle-Next-Education-T3
+# Decodificador-de-Texto | Challenge-Oracle-Next-Education-T3
 O desafio era criar um decodificador de texto com os seguintes requisitos:
 
 - Deve funcionar apenas com letras minúsculas
@@ -20,7 +20,3 @@ Foram utilizados HTML5, CSS3 e Javascript para concluir o desafio.  #challengeon
 Você pode acessar a página <a target="_blank" href="https://akariny.github.io/decodificador_de_texto/">AQUI</a> 😉
 
 <a href="https://imgur.com/cPcPB4K"><img src="https://i.imgur.com/cPcPB4K.png" title="source: imgur.com" /></a>
-
-
-
-
